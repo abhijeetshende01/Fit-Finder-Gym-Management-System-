@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.fitternity.com	TRUE	/	FALSE	1999999999	userid	483f0d44-0187-46d9-a3b2-5ea81271f300
+www.fitternity.com	TRUE	/	FALSE	1999999999	fitsessioncookie	j%3A%7B%22setreferer%22%3A%22y%22%2C%22params%22%3A%7B%22utm_source%22%3A%22internal%22%2C%22utm_medium%22%3A%22internal%22%2C%22utm_campaign%22%3A%22non-integrated_near_by%22%7D%2C%22params_string%22%3A%22%7B%5C%22utm_source%5C%22%3A%5C%22internal%5C%22%2C%5C%22utm_medium%5C%22%3A%5C%22internal%5C%22%2C%5C%22utm_campaign%5C%22%3A%5C%22non-integrated_near_by%5C%22%7D%22%2C%22referrer%22%3A%22http%3A%2F%2Fwww.fitternity.com%2Fcult-gym-richmond-road%22%7D
+www.fitternity.com	TRUE	/	FALSE	1999999999	utmdetails	%7B%22utm_source%22%3A%22internal%22%2C%22utm_medium%22%3A%22internal%22%2C%22utm_campaign%22%3A%22non-integrated_near_by%22%7D
+www.fitternity.com	TRUE	/	FALSE	1999999999	showcitypop	false
+www.fitternity.com	TRUE	/	FALSE	1999999999	fitcurrentreferrer	j%3A%7B%22referrer%22%3A%22%22%2C%22params%22%3A%7B%7D%2C%22params_string%22%3A%22%7B%7D%22%7D
+www.fitternity.com	TRUE	/	FALSE	1999999999	sessioncookie	j%3A%7B%22setreferer%22%3A%22y%22%2C%22referer%22%3A%22http%3A%2F%2Fwww.fitternity.com%2Fgolds-gym-basaveshwara-nagar%22%2C%22visitsession%22%3A%223b3afd97-0c12-479e-a7cb-720fe718bbd2%22%7D
+www.fitternity.com	TRUE	/	FALSE	1999999999	chosencity	Bangalore
+www.fitternity.com	TRUE	/	FALSE	1999999999	currentcity	j%3A%7B%22name%22%3A%22Bangalore%22%2C%22id%22%3A3%2C%22slug%22%3A%22bangalore%22%7D
+www.fitternity.com	TRUE	/	FALSE	1999999999	furadius	2
+
